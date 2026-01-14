@@ -1,0 +1,20 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "coding",
+  "homepage": "https://github.com/PuneethThurimella/JavaScript#readme",
+  "bugs": {
+    "url": "https://github.com/PuneethThurimella/JavaScript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PuneethThurimella/JavaScript.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
