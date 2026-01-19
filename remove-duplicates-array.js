@@ -7,7 +7,7 @@ console.log(removeDuplicates(array));
 
 function removeDuplicatesInArray(arr) {
   let uniqueArr = [];
-  for (let i = 0; i < arr.length; i++) {
+  for (let i = 0; i < arr.length; i++) { // indexOf(arr[i]) === -1
     if (!uniqueArr.includes(arr[i])) {
       uniqueArr.push(arr[i]);
     }
@@ -15,3 +15,4 @@ function removeDuplicatesInArray(arr) {
   return uniqueArr;
 }
 console.log(removeDuplicatesInArray(array));
+
