@@ -7,6 +7,7 @@
 - [Swap](./Core%20JavaScript/swap.js)
 - [Factorial Recursion](./Core%20JavaScript/factorial-recursion.js)
 - [Retry Recursion](./Core%20JavaScript/retry-utility.js)
+- [Wait Utility](./Core%20JavaScript/wait-utility.js)
 -----
 #### 📂 Array Programs
 - [Largest Number Array](./Array%20Programs/largest-number-array.js)
