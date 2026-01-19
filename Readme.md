@@ -1,26 +1,26 @@
-### 📂 Core JavaScript
+#### 📂 Core JavaScript
 
-- [closure.js](./Core%20JavaScript/closure.js)
-- [copy.js](./Core%20JavaScript/copy.js)
-- [event-loop.js](./Core%20JavaScript/event-loop.js)
-- [promises.js](./Core%20JavaScript/promises.js)
-- [timer.js](./Core%20JavaScript/timer.js)
-- [swap.js](./Core%20JavaScript/swap.js)
-- [factorial-recursion.js](./Core%20JavaScript/factorial-recursion.js)
+- [Closure](./Core%20JavaScript/closure.js)
+- [Deep & Shallow Copy](./Core%20JavaScript/copy.js)
+- [Event Loop](./Core%20JavaScript/event-loop.js)
+- [Promises](./Core%20JavaScript/promises.js)
+- [Timers](./Core%20JavaScript/timer.js)
+- [Swap](./Core%20JavaScript/swap.js)
+- [Factorial Recursion](./Core%20JavaScript/factorial-recursion.js)
 
----
+-----
 
-### 📂 Array Programs
+#### 📂 Array Programs
 
-- [largest-number-array.js](./Array%20Programs/largest-number-array.js)
-- [smallest-number-array.js](./Array%20Programs/smallest-number-array.js)
-- [remove-duplicates-array.js](./Array%20Programs/remove-duplicates-array.js)
-- [sort-array.js](./Array%20Programs/sort-array.js)
+- [Largest Number Array](./Array%20Programs/largest-number-array.js)
+- [Smallest Number Array](./Array%20Programs/smallest-number-array.js)
+- [Remove Duplicates Array](./Array%20Programs/remove-duplicates-array.js)
+- [Sort Array](./Array%20Programs/sort-array.js)
 
----
+-----
 
-### 📂 String Programs
+#### 📂 String Programs
 
-- [count-vowels.js](./String%20Programs/count-vowels.js)
-- [reverse-string.js](./String%20Programs/reverse-string.js)
-- [longest-word-string.js](./String%20Programs/longest-word-string.js)
+- [Count Vowels / Characters](./String%20Programs/count-vowels.js)
+- [Reverse String / Palindrome / Anagrams](./String%20Programs/reverse-string.js)
+- [Longest Word String](./String%20Programs/longest-word-string.js)
