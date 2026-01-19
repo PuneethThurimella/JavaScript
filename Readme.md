@@ -6,6 +6,7 @@
 - [Timers](./Core%20JavaScript/timer.js)
 - [Swap](./Core%20JavaScript/swap.js)
 - [Factorial Recursion](./Core%20JavaScript/factorial-recursion.js)
+- [Retry Recursion](./Core%20JavaScript/retry-utility.js)
 -----
 #### 📂 Array Programs
 - [Largest Number Array](./Array%20Programs/largest-number-array.js)
