@@ -8,16 +8,18 @@
 - [Factorial Recursion](./Core%20JavaScript/factorial-recursion.js)
 - [Retry Recursion](./Core%20JavaScript/retry-utility.js)
 - [Wait Utility](./Core%20JavaScript/wait-utility.js)
+- [API Utility](./Core%20JavaScript/api-utility.js)
 -----
 #### 📂 Array Programs
 - [Largest Number Array](./Array%20Programs/largest-number-array.js)
 - [Smallest Number Array](./Array%20Programs/smallest-number-array.js)
 - [Flatten Nested Array](./Array%20Programs/flatten-nested-array.js)
+- [Missing Number Array](./Array%20Programs/missing-number-array.js)
 - [Find / Remove Duplicates Array](./Array%20Programs/remove-duplicates-array.js)
 - [Sort Array](./Array%20Programs/sort-array.js)
 -----
 #### 📂 String Programs
-- [Count Vowels / Characters](./String%20Programs/count-vowels.js)
+- [Count Vowels / Characters / First Non Repeating Character](./String%20Programs/count-vowels.js)
 - [Reverse String / Palindrome / Anagrams](./String%20Programs/reverse-string.js)
 - [Reverse Word](./String%20Programs/reverse-word.js)
 - [Longest Word String](./String%20Programs/longest-word-string.js)

@@ -1,12 +1,3 @@
-/* 1. what is async ?
-async is a keyword used before a function to make function asynchronous.
-and it always return a promise.
-
-2. what is await ?
-await is a keyword that can be used inside async function only.
-it pause the execution for promise to be resolved.
-async & await combo used to handle promises. */
-
 const promiseOne = new Promise((resolve, reject) => {
   setTimeout(() => {
     resolve("Promise Resolved");
