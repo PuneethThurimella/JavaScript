@@ -1,12 +1,9 @@
-let sentence = "Playwright automation is powerful";
-
 function reverseWord(sentence) {
   return sentence
     .split(" ")
     .map((word) => word.split("").reverse().join(""))
     .join(" ");
 }
-console.log(reverseWord(sentence));
 
 function reverseEachWord(sentence) {
   let result = "";
@@ -25,4 +22,6 @@ function reverseEachWord(sentence) {
   }
   return result.trim();
 }
+let sentence = "Playwright automation is powerful";
 console.log(reverseWord(sentence));
+console.log(reverseEachWord(sentence));
