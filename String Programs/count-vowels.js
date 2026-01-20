@@ -1,17 +1,14 @@
-let string = 'Puneeth Kumar';
-
 function countVowels(str) {
   let count = 0;
   let vowels = ["a", "e", "i", "o", "u"];
   str = str.toLowerCase();
   for (let char of str) {
-    if (vowels.indexOf(char) !== -1) { // includes(char)
+    if (vowels.indexOf(char) !== -1) {
       count++;
     }
   }
   return count;
 }
-console.log(countVowels(string));
 
 function countCharacters(str) {
   const charCount = {};
@@ -20,7 +17,6 @@ function countCharacters(str) {
   }
   return charCount;
 }
-console.log(countCharacters(string));
 
 function firstNonRepeatingChar(str) {
   const charCount = {};
@@ -34,4 +30,8 @@ function firstNonRepeatingChar(str) {
   }
   return null;
 }
-console.log(firstNonRepeatingChar(string));
+
+let string = 'Puneeth Kumar';
+console.log('countVowels:', countVowels(string));
+console.log('countCharacters:',countCharacters(string));
+console.log('firstNonRepeatingChar:',firstNonRepeatingChar(string));
