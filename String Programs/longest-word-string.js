@@ -1,5 +1,3 @@
-let string = "Puneeth Kuamr";
-
 function longestWord(str) {
   let words = str.split(" ");
   let longestWord = "";
@@ -10,4 +8,6 @@ function longestWord(str) {
   }
   return longestWord;
 }
+
+let string = "Puneeth Kuamr Thurimella Automation Playwright";
 console.log(longestWord(string));

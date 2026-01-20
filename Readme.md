@@ -10,7 +10,7 @@
 - [Count Vowels / Characters / First Non Repeating Character](./String%20Programs/count-vowels.js)
 - [Reverse String / Palindrome / Anagrams](./String%20Programs/reverse-string.js)
 - [Reverse Each Word In Sentence](./String%20Programs/reverse-word.js)
-- [Longest Word String](./String%20Programs/longest-word-string.js)
+- [Longest Word Sentence](./String%20Programs/longest-word-string.js)
 -----
 #### 📂 Core JavaScript
 - [Closure](./Core%20JavaScript/closure.js)
