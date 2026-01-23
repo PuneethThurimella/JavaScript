@@ -7,6 +7,8 @@
 - [Sort Array](./Array%20Programs/sort-array.js)
 - [Reverse Array](./Array%20Programs/reverse-array.js)
 - [Flatten Nested Array](./Array%20Programs/flatten-nested-array.js)
+- [Nth Largest Number Array](./Array%20Programs/nth-largest-number.js)
+- [Nth Smallest Number Array](./Array%20Programs/nth-smallest-number.js)
 -----
 #### 📂 String Programs
 - [Count Vowels](./String%20Programs/count-vowels.js)
