@@ -1,11 +1,9 @@
-const array = [1, 2, 3, 5, 6, 7, 8];
-
 function findMissing(arr, n) {
-  const expectedSum = (n * (n + 1)) / 2;
-  let actualSum = 0;
+  let total = n * (n + 1) / 2;
+  let sum = 0;
   for (let i = 0; i < arr.length; i++) {
-    actualSum += arr[i];
+    sum += arr[i];
   }
-  return expectedSum - actualSum;
+  return total - sum;
 }
-console.log(findMissing(array, 8));
+console.log(findMissing([1, 2, 3, 5, 6, 7, 8], 8));

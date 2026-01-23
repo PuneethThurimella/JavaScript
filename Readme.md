@@ -1,10 +1,12 @@
 #### 📂 Array Programs
 - [Largest Number Array](./Array%20Programs/largest-number-array.js)
 - [Smallest Number Array](./Array%20Programs/smallest-number-array.js)
-- [Flatten Nested Array](./Array%20Programs/flatten-nested-array.js)
-- [Missing Number Array](./Array%20Programs/missing-number-array.js)
-- [Find / Remove Duplicates Array](./Array%20Programs/remove-duplicates-array.js)
+- [Missing Number Array (1 to n)](./Array%20Programs/missing-number-array.js)
+- [Remove Duplicates Array](./Array%20Programs/remove-duplicates-array.js)
+- [Find Duplicates Array](./Array%20Programs/find-duplicates-array.js)
 - [Sort Array](./Array%20Programs/sort-array.js)
+- [Reverse Array](./Array%20Programs/reverse-array.js)
+- [Flatten Nested Array](./Array%20Programs/flatten-nested-array.js)
 -----
 #### 📂 String Programs
 - [Count Vowels](./String%20Programs/count-vowels.js)
