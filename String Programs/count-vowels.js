@@ -1,17 +1,5 @@
 function countVowels(str) {
   let count = 0;
-  let vowels = ["a", "e", "i", "o", "u"];
-  str = str.toLowerCase();
-  for (let char of str) {
-    if (vowels.indexOf(char) !== -1) {
-      count++;
-    }
-  }
-  return count;
-}
-
-function countVowels(str) {
-  let count = 0;
   let vowels = "aeiouAEIOU";
   for (let i = 0; i < str.length; i++) {
     for (let j = 0; j < vowels.length; j++) {
