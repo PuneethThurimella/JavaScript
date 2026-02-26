@@ -30,6 +30,3 @@
 - [Deep & Shallow Copy](./Core%20JavaScript/copy.js)
 - [Event Loop](./Core%20JavaScript/event-loop.js)
 - [Promises](./Core%20JavaScript/promises.js)
-- [Retry Recursion](./Core%20JavaScript/retry-utility.js)
-- [Wait Utility](./Core%20JavaScript/wait-utility.js)
-- [API Utility](./Core%20JavaScript/api-utility.js)
